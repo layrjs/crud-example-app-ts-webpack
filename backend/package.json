@@ -15,7 +15,7 @@
     "@liaison/component-server": "^1.0.0",
     "@liaison/mongodb-store": "^1.0.0",
     "@liaison/storable": "^1.0.0",
-    "tslib": "^1.13.0"
+    "tslib": "^2.0.3"
   },
   "devDependencies": {
     "@liaison/component-http-server": "^1.0.0",
