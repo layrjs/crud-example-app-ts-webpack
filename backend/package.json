@@ -10,18 +10,18 @@
     "start": "nodemon --watch ./src --exec ts-node ./src/http-server.ts"
   },
   "dependencies": {
-    "@layr/aws-integration": "^1.0.0",
-    "@layr/component": "^1.0.0",
-    "@layr/component-server": "^1.0.0",
-    "@layr/mongodb-store": "^1.0.0",
-    "@layr/storable": "^1.0.0",
+    "@layr/aws-integration": "^1.0.20",
+    "@layr/component": "^1.0.20",
+    "@layr/component-server": "^1.0.18",
+    "@layr/mongodb-store": "^1.1.14",
+    "@layr/storable": "^1.1.4",
     "tslib": "^2.0.3"
   },
   "devDependencies": {
-    "@layr/component-http-server": "^1.0.0",
-    "@types/node": "^14.6.2",
+    "@layr/component-http-server": "^1.0.18",
+    "@types/node": "^14.14.19",
     "nodemon": "^2.0.4",
-    "simple-deployment": "^0.1.41",
+    "simple-deployment": "^0.1.46",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   }
